@@ -106,6 +106,7 @@ Train ML models
 Display performance metrics
 
 **Result Table**
+
 <img width="451" height="156" alt="image" src="https://github.com/user-attachments/assets/f65256a6-4f71-4d6b-8677-4d0151a3112b" />
 
 
